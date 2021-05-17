@@ -1,2 +1,2 @@
 # python
-Basic python code examples
+Examples of the style of code I write.
